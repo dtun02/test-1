@@ -1,0 +1,2 @@
+thay đỏi user name:     git config --global user.name "Tên"
+thay đổi email:     git config --global user.email "Email"

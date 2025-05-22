@@ -1,0 +1,3 @@
+repo(repository) là nơi lưu trữ mà nguòn của dự án
+branch(nhánh) là 1 phần của repo được tách ra từ nhánh chính (thường là main hoặc master), mỗi branch là 1 phiên bản độc lập của dự án không làm thay đổi đến nhánh chính, khi 1 branch được hoàn thành sẽ được merge(gộp) vào nhánh chính
+commit(ghi nhận) gi lại các thay đổi trên mã nguồn repo, sử dụng commit sau khi thực hiện thay đổi trên branch 
