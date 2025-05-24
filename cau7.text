@@ -1,0 +1,2 @@
+thêm các file thay đỏi trước khi commit: git add . (thêm tất cả các file)
+git add "tên file"

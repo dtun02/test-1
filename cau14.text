@@ -1,0 +1,2 @@
+Câu lệnh để gộp 2 commit của 1 nhánh thành 1: git rebase -i
+git merge --squash "tên branch mới chứa 2 commit muốn gộp" 

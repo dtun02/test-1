@@ -1,0 +1,2 @@
+tạo branch: git branch "tên branch"
+di chuyển tới branch: git checkout -b "tên branch"

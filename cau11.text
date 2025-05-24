@@ -1,0 +1,2 @@
+Git fetch là giải pháp thay thế an toàn hơn vì nó kéo tất cả các cam kết từ xa nhưng không thực hiện bất kỳ thay đổi nào đối với các tệp cục bộ của bạn.
+Git pull nhanh hơn vì bạn thực hiện nhiều hành động trong một lần – hiệu quả hơn nhiều so với số tiền bạn bỏ ra. Sử dụng lệnh Git pull có thể được coi là một tính năng tiện lợi; bạn có thể ít lo lắng hơn về việc đưa xung đột vào kho lưu trữ cục bộ của mình và bạn chỉ muốn những thay đổi mới nhất từ ​​nhánh từ xa mà bạn đang kéo.
